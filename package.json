@@ -1,0 +1,22 @@
+{
+  "name": "xml-json-conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denakv/xml-json-conversion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denakv/xml-json-conversion/issues"
+  },
+  "homepage": "https://github.com/denakv/xml-json-conversion#readme",
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  }
+}
